@@ -1,0 +1,7 @@
+group:
+  repos: |
+    yash-mahalwal/web
+    yash-mahalwal/mobile
+  files:
+    - source: src/features/
+      dest: features/
